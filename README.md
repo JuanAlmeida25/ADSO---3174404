@@ -1,4 +1,4 @@
-## Este es un repositorio donde van a montar un archivo readme que contenga informacion como: 
+## Este es un repositorio donde van a editar un archivo readme que contenga informacion como: 
 
 - Nombres y apellidos.
 - Descripcion.
