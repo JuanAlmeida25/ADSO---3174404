@@ -7,4 +7,4 @@
 - Habilidades tecnicas aprendidas hasta el momento.
 - Estudios.
 - Idiomas.
-- Nombre de proyectos desarrollados durante el programa de formacion y link a portafolio en github.
+- Links de proyectos completos desarrollados hasta el momento (Algoritmos, Python, Analisis de Datos y C#) 
